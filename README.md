@@ -54,26 +54,6 @@ A luxury chocolate e-commerce interface focused on creating a modern, elegant an
 
 ---
 
-### 🛒 Virtual Store
-
-A full-stack e-commerce project with product management, administration features and payment integration.
-
-**Technologies:** React • Node.js • Express • MongoDB • Stripe
-
-🔗 [View Repository](LINK_DO_REPOSITORIO)
-
----
-
-### 💻 Portfolio
-
-My personal portfolio website, created to showcase my projects, skills and development journey.
-
-**Technologies:** React • Vite • Tailwind CSS
-
-🔗 [View Repository](LINK_DO_REPOSITORIO)
-
----
-
 ## 🏆 Achievement
 
 🥇 **1st Place — National Programming Competition**
