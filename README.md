@@ -40,7 +40,7 @@ A developer-focused "second brain" designed to organize programming notes, refer
 
 **Technologies:** React • Vite • JavaScript • Tailwind CSS • Firebase
 
-🔗 [View Repository](LINK_DO_REPOSITORIO)
+🔗 [View Repository](https://github.com/bernardcsilva/DevNotes)
 
 ---
 
