@@ -50,7 +50,7 @@ A luxury chocolate e-commerce interface focused on creating a modern, elegant an
 
 **Technologies:** React • Vite • Tailwind CSS
 
-🔗 [View Repository](LINK_DO_REPOSITORIO)
+🔗 [View Repository](https://github.com/bernardcsilva/Bellus)
 
 ---
 
@@ -105,7 +105,7 @@ Developed a financial education website as part of the competition.
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-carvalheira-da-silva-4a1603341/)
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](SEU_SITE)
 
