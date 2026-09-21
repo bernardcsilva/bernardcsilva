@@ -34,6 +34,19 @@
 
 ## 🚀 Featured Projects
 
+### 🏆 MONNEF
+
+A financial education website developed for a national programming
+competition, focused on making financial knowledge more accessible.
+
+🥇 **1st Place — National Programming Competition**
+
+**Focus:** Financial Education • Web Development
+
+🔗 [View Repository](LINK_DO_MONNEF)
+
+---
+
 ### 📚 DevNotes
 
 A developer-focused "second brain" designed to organize programming notes, references and study content.
